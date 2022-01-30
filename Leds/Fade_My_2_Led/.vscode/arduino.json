@@ -1,0 +1,5 @@
+{
+    "sketch": "Fading.ino",
+    "port": "COM3",
+    "board": "arduino:avr:nano"
+}
